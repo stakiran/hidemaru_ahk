@@ -1,5 +1,5 @@
 # hidemaru_ahk
-秀丸エディタで AutoHotkey を書くための設定たち 
+秀丸エディタで AutoHotkey を書くための設定たち。
 
 ## 同梱物
 - [ahk.txt](ahk.txt) …… 辞書ファイル
@@ -32,10 +32,9 @@ Ans: 古いから使ってない。
 [開発環境の構築 - AutoHotkey Wiki](http://ahkwiki.net/Tools) にて Ahk_Hidemaru.zip が公開されてるが、2013 年と古い。たとえば class など最近のキーワードが網羅されてない。
 
 ## ahk.hilight
-アウトラインが欲しくて作った最低限のブツ。
-
 - コメントのカラー表示
 - 関数、クラス、ラベルのアウトライン表示
+- キーワードのカラー表示
 
 ## License
 [MIT License](LICENSE)
