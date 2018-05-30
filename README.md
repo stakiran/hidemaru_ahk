@@ -1,5 +1,7 @@
 # hidemaru_ahk
-秀丸エディタで AutoHotkey を書くための設定たち。
+[WIP] 秀丸エディタで AutoHotkey を書くための設定たち。
+
+![hidemaru_ahk_image](https://user-images.githubusercontent.com/23325839/40694681-9a0fd71a-63f8-11e8-8da0-a23fff969951.jpg)
 
 ## 同梱物
 - [ahk.txt](ahk.txt) …… 辞書ファイル
